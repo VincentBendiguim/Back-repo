@@ -1,0 +1,78 @@
+ @media only screen and (max-width:768px) {
+     header .navbar-brand {
+         padding-left: 1rem;
+     }
+
+     .un-1 .row .col-md-6 .panel {
+         position: initial;
+         width: initial;
+         height: initial;
+     }
+
+     .deux-2 .cover {
+         background-position: -25vmin -10vmin;
+     }
+
+     .number .rect {
+         width: 20rem;
+         height: 8rem;
+     }
+
+     .number .rect h1 {
+         font-size: 2rem;
+     }
+
+     .troi-3 {
+         height: initial;
+         padding: 10vmin !important;
+     }
+
+     .troi-3 .row h1 {
+         padding: 6vmin 4vmin;
+     }
+
+     .troi-3 .row .col-md-6 {
+         text-align: center !important;
+
+     }
+
+     .troi-3 .desktop i {
+         font-size: 8vmin;
+     }
+
+     .sect-4 .carousel-item {
+         padding-left: 0.6rem;
+     }
+
+     .sect-4 .Team {
+         display: flex;
+         flex-direction: column;
+         align-content: center;
+     }
+
+     .sect-4 .carousel-inner {
+         width: 24rem;
+     }
+
+
+ }
+
+ @media only screen and(max-width:425px) {
+     footer .row .col-md-2 {
+         margin-top: 8vmin;
+     }
+
+
+ }
+
+ @media only screen and(max-width:320px) {
+     .sect-4 .joy {
+         width: 18rem;
+     }
+ }
+
+ .sect-4 .carousel-inner {
+     margin-right: -14vmin;
+
+
+ }
